@@ -17,5 +17,5 @@ There are more details regarding devices and their status and visualitions used 
 <br />
 ### Device Registration page 
 This shows data of devices registered over time in a line chart and the number of devices per category in bar chart
-<br 
+
 
